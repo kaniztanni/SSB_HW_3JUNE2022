@@ -1,0 +1,12 @@
+h2
+{
+	color: blue;
+}
+
+table,th,td
+{
+	border: 1px solid black;
+}
+caption{
+	font-size: 20px;
+}
